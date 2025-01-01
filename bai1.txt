@@ -1,1 +1,2 @@
 Hello this is a first day on practicing git 
+This line is written by Dev2
